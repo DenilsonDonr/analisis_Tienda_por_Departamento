@@ -1,0 +1,23 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar archivos temporales del sistema operativo
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de entorno de trabajo
+.idea/
+.vscode/
+
+
+# Ignorar todo en la carpeta archivos
+archivos/*
+
+# Exceptuar README.TXT
+!archivos/README.TXT
