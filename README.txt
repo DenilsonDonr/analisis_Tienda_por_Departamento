@@ -1,4 +1,4 @@
-# Archivo 'Ventas_tienda_por_departamento.csv'
+#Archivo 'Ventas_tienda_por_departamento.csv'
 # Este archivo es para el análisis de los datos de ventas
 
 ## Instrucciones para la configuración del entorno usando venv
